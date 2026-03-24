@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Football Live</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_matches">Matches</string>
+    <string name="nav_news">News</string>
+
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Create account</string>
+    <string name="go_to_signup">Don\'t have an account? Sign up</string>
+    <string name="go_to_login">Already have an account? Login</string>
+    <string name="logout">Logout</string>
+
+    <string name="section_live_now">Live now</string>
+    <string name="section_upcoming">Upcoming</string>
+    <string name="section_latest_news">Latest news</string>
+
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>
