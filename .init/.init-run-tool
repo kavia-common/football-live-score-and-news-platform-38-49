@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/football-live-score-and-news-platform-38-49/frontend_react_app"
+}
